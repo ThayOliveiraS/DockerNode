@@ -1,4 +1,4 @@
-#  Node.js-MySQL-Docker
+#  Node.js+MySQL+Docker
 
 Criada API em node.js que faz conexão ao MySQL, consumindo dados do banco, rodando em containers separados do docker desktop.
 
